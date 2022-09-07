@@ -16,11 +16,12 @@ Repositório com informações e documentos úteis que serão usados durante o p
 		- Ao exportar o arquivo, nomeie o arquivo e envie para [ contatojoaolucas71@gmail.com ], com o assunto "Montagem Robótica".
 
 	- Aos que não possuem acesso ao programa:
-		° Se juntem com colegas que possuam acesso; ou
-		° Procurem materiais(vídeos, textos, guias) sobre o programa, e compartilhem conosco.
+		- Se juntem com colegas que possuam acesso; ou
+		- Procurem materiais(vídeos, textos, guias) sobre o programa, e compartilhem conosco.
 
 - **Prazo**: sexta-feira (09/09), às 07:00 da manhã. 
 
 - **Observações**: atividade complementar de extrema importância! Mesmo que não tenha acesso a um computador, procure interagir com o programa de outras formas.
 
 (*EM CASO DE DUVIDAS, ENTRE EM CONTATO _INCONDICIONALMENTE_**
+
