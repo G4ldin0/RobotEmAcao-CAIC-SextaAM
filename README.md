@@ -4,7 +4,6 @@ Repositório com informações e documentos úteis que serão usados durante o p
 ## ATIVIDADE DA SEMANA
 
 
-###**Segunda atividade Extra Sala**
 
 - **Objetivo**: Interagir com o Software Lego Digital Designer (LDD).
 
