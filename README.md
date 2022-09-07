@@ -13,9 +13,9 @@ Repositório com informações e documentos úteis que serão usados durante o p
 	- Desenvolver uma montagem básica com o programa, tirando foto ou exportando o arquivo
 	- __**DESAFIO**__ = construir o robô base no programa.
 	- __**DESAFIO**__ = fazer uma montagem de FLL no programa.
-		*Ao exportar o arquivo, nomeie o arquivo e envie para [ contatojoaolucas71@gmail.com ], com o assunto "Montagem Robótica".
+		- Ao exportar o arquivo, nomeie o arquivo e envie para [ contatojoaolucas71@gmail.com ], com o assunto "Montagem Robótica".
 
-	-Aos que não possuem acesso ao programa:
+	- Aos que não possuem acesso ao programa:
 		° Se juntem com colegas que possuam acesso; ou
 		° Procurem materiais(vídeos, textos, guias) sobre o programa, e compartilhem conosco.
 
