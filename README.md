@@ -3,4 +3,4 @@ Repositório com informações e documentos úteis que serão usados durante o p
 
 ## ATIVIDADE DA SEMANA
 
-![atividade da semana](/readmes/atividademontagem.md)
+[atividade da semana](readmes/atividademontagem.md)
