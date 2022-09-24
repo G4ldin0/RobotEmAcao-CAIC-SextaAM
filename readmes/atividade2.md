@@ -1,11 +1,4 @@
-# RobotEmAção-CAIC-SextaAM
-Repositório com informações e documentos úteis que serão usados durante o processo de aulas do semestre.
-
-## ATIVIDADE DA SEMANA
-
-<<<<<<< HEAD
-[atividade da semana](/readmes/atividade2.md)
-=======
+## Segunda atividade extra-sala
 
 
 - **Objetivo**: Interagir com o Software Lego Digital Designer (LDD).
@@ -27,5 +20,3 @@ Repositório com informações e documentos úteis que serão usados durante o p
 - **Observações**: atividade complementar de extrema importância! Mesmo que não tenha acesso a um computador, procure interagir com o programa de outras formas.
 
 (*EM CASO DE DUVIDAS, ENTRE EM CONTATO _INCONDICIONALMENTE_**
-
->>>>>>> b21e7bd9ad3122f272049ffce742af62f60605a6
