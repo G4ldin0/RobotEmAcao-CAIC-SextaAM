@@ -10,8 +10,7 @@ Tendo o Lego Digital Designer instalado, construa:
  - _**DESAFIO**_: O mesmo robô, porém com anexos que possam ser úteis numa resolução de desafios
 
 ## Prazo
-> Etapa 1: 27/09 (terça-feira)
-> Etapa 2: 30/09 (sexta-feira)
+> 07/10 ( sexta-feira )
 
 ## Observações
 A entrega pode ser feita via [e-mail]( mailto:contatojoaolucas71@gmail.com?Subject:Montagem%20Robótica ) ou [Whatsapp](http://wa.me/5584991412865).
